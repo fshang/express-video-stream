@@ -1,0 +1,20 @@
+{
+  "name": "express_test",
+  "version": "1.0.0",
+  "description": "aaa",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "fshang",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mz": "^2.7.0",
+    "video-stream": "^1.2.1"
+  }
+}
